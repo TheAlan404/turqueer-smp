@@ -1,0 +1,20 @@
+name = "turqueer-smp"
+mc_version = "1.20.4"
+
+[jar]
+type = "fabric"
+loader = "latest"
+installer = "latest"
+
+[variables]
+PORT = "25565"
+
+[launcher]
+eula_args = true
+nogui = true
+
+[markdown]
+files = ["README.md"]
+auto_update = false
+
+[options]
