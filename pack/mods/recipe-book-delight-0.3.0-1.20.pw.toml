@@ -1,0 +1,17 @@
+name = "recipe-book-delight-0.3.0-1.20"
+filename = "recipe-book-delight-0.3.0-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cqC8Bgcm/versions/O7EkiLGO/recipe-book-delight-0.3.0-1.20.jar"
+hash = "e5a37896439874a20e47f14c48afb13ec004a98b38e8b511d4091a9a013e9b19118eea63a97f28f12d751ca102fdd53d2e193a0b71cba50d149042a841e20433"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "recipe-book-delight"
+version = "O7EkiLGO"

@@ -1,0 +1,17 @@
+name = "Estrogen-4.0.4-fabric"
+filename = "Estrogen-4.0.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/ws8qtjTI/Estrogen-4.0.4-fabric.jar"
+hash = "53d2f457ed8ed44bbc0f06c56deeaf8a31d4c5604efb53dbbe44b644e1918b7274b5a86b1d0a019d53547a9368f16cf64187608353c6ab0fe15b14da6b954549"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "estrogen"
+version = "ws8qtjTI"
