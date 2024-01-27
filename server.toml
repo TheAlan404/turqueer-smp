@@ -1,5 +1,5 @@
 name = "turqueer-smp"
-mc_version = "1.20.4"
+mc_version = "1.20.1"
 
 [jar]
 type = "fabric"
@@ -12,6 +12,396 @@ PORT = "25565"
 [launcher]
 eula_args = true
 nogui = true
+
+[[mods]]
+type = "modrinth"
+id = "fabric-api"
+version = "latest"
+
+[[mods]]
+type = "modrinth"
+id = "create-fabric"
+version = "qlA1WuOK"
+
+[[mods]]
+type = "modrinth"
+id = "sodium"
+version = "4OZL6q9h"
+
+[[mods]]
+type = "modrinth"
+id = "sodium-extra"
+version = "80a0J5Cn"
+
+[[mods]]
+type = "modrinth"
+id = "reeses-sodium-options"
+version = "hCsMUZLa"
+
+[[mods]]
+type = "modrinth"
+id = "indium"
+version = "Lue6O9z9"
+
+[[mods]]
+type = "modrinth"
+id = "ferrite-core"
+version = "unerR5MN"
+
+[[mods]]
+type = "modrinth"
+id = "modmenu"
+version = "lEkperf6"
+
+[[mods]]
+type = "modrinth"
+id = "lithium"
+version = "ZSNsJrPI"
+
+[[mods]]
+type = "modrinth"
+id = "modernfix"
+version = "fktvkFSD"
+
+[[mods]]
+type = "modrinth"
+id = "yeetus-experimentus"
+version = "vPTIVHrC"
+
+[[mods]]
+type = "modrinth"
+id = "narrus-yeetus"
+version = "a27Z6E55"
+
+[[mods]]
+type = "modrinth"
+id = "exordium"
+version = "fROHV9gC"
+
+[[mods]]
+type = "modrinth"
+id = "krypton"
+version = "jiDwS0W1"
+
+[[mods]]
+type = "modrinth"
+id = "no-chat-reports"
+version = "HeZZR2kF"
+
+[[mods]]
+type = "modrinth"
+id = "3dskinlayers"
+version = "KHhjRppT"
+
+[[mods]]
+type = "modrinth"
+id = "xaeros-minimap"
+version = "rbY8QUIj"
+
+[[mods]]
+type = "modrinth"
+id = "xaeros-world-map"
+version = "sldtuPfE"
+
+[[mods]]
+type = "modrinth"
+id = "presence-footsteps"
+version = "pOCYcZUF"
+
+[[mods]]
+type = "modrinth"
+id = "fallingleaves"
+version = "KpvXCE2X"
+
+[[mods]]
+type = "modrinth"
+id = "sound-physics-remastered"
+version = "GdHd0uVw"
+
+[[mods]]
+type = "modrinth"
+id = "jade"
+version = "QhvPNPdp"
+
+[[mods]]
+type = "modrinth"
+id = "jade-addons-fabric"
+version = "oSyOLHYj"
+
+[[mods]]
+type = "modrinth"
+id = "farmers-delight-fabric"
+version = "QXYNitXw"
+
+[[mods]]
+type = "modrinth"
+id = "slice-and-dice"
+version = "etRuKHcg"
+
+[[mods]]
+type = "modrinth"
+id = "origins"
+version = "OdNHB7Bh"
+
+[[mods]]
+type = "modrinth"
+id = "improved-inchling-origin"
+version = "CMwBLebQ"
+
+[[mods]]
+type = "modrinth"
+id = "origin-furs"
+version = "As0QO9qw"
+
+[[mods]]
+type = "modrinth"
+id = "slimeorigin"
+version = "yQzTujqg"
+
+[[mods]]
+type = "modrinth"
+id = "create-garnished"
+version = "4tD88qc4"
+
+[[mods]]
+type = "modrinth"
+id = "create-origins"
+version = "2YRyvxvy"
+
+[[mods]]
+type = "modrinth"
+id = "emi"
+version = "r10gArKs"
+
+[[mods]]
+type = "modrinth"
+id = "emitrades"
+version = "kWMqVWTm"
+
+[[mods]]
+type = "modrinth"
+id = "emi-loot"
+version = "7fjkgVEh"
+
+[[mods]]
+type = "modrinth"
+id = "emiffect"
+version = "BslzSzGd"
+
+[[mods]]
+type = "modrinth"
+id = "extra-mod-integrations"
+version = "InD7xPaR"
+
+[[mods]]
+type = "modrinth"
+id = "estrogen"
+version = "ws8qtjTI"
+
+[[mods]]
+type = "modrinth"
+id = "armor-visibility"
+version = "Zfnkk7jP"
+
+[[mods]]
+type = "modrinth"
+id = "azurelib"
+version = "eXRmZkOQ"
+
+[[mods]]
+type = "modrinth"
+id = "cc-tweaked"
+version = "Scean3uO"
+
+[[mods]]
+type = "modrinth"
+id = "cloth-config"
+version = "J3FLptsi"
+
+[[mods]]
+type = "modrinth"
+id = "consistencyplus"
+version = "j79xOfCe"
+
+[[mods]]
+type = "modrinth"
+id = "create-sandpaper-overhaul"
+version = "mLRz23eV"
+
+[[mods]]
+type = "modrinth"
+id = "exordium"
+version = "fROHV9gC"
+
+[[mods]]
+type = "modrinth"
+id = "expanded-delight"
+version = "Corz4OBb"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons"
+version = "uMEzKato"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-delight-compat"
+version = "KIzyS8hk"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-terralith-compat"
+version = "MJ2OF7eg"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-seasons-terraformers-compat"
+version = "ygNAnYqt"
+
+[[mods]]
+type = "modrinth"
+id = "figura"
+version = "8892Wqoi"
+
+[[mods]]
+type = "modrinth"
+id = "image2map"
+version = "T71Apams"
+
+[[mods]]
+type = "modrinth"
+id = "immediatelyfast"
+version = "3EgIBnht"
+
+[[mods]]
+type = "modrinth"
+id = "lambdynamiclights"
+version = "mYl4RvKg"
+
+[[mods]]
+type = "modrinth"
+id = "magnum-torch"
+version = "JCiAyLV3"
+
+[[mods]]
+type = "modrinth"
+id = "mixintrace"
+version = "LGYOH4RN"
+
+[[mods]]
+type = "modrinth"
+id = "pehkui"
+version = "CEwGflAU"
+
+[[mods]]
+type = "modrinth"
+id = "polymorph"
+version = "E4b6m0sQ"
+
+[[mods]]
+type = "modrinth"
+id = "recipe-book-delight"
+version = "O7EkiLGO"
+
+[[mods]]
+type = "modrinth"
+id = "searchables"
+version = "ZJCxu2Vh"
+
+[[mods]]
+type = "modrinth"
+id = "spark"
+version = "XGW2fviP"
+
+[[mods]]
+type = "modrinth"
+id = "spelunkery"
+version = "j8FDXfMx"
+
+[[mods]]
+type = "modrinth"
+id = "tectonic"
+version = "MDe9rNGW"
+
+[[mods]]
+type = "modrinth"
+id = "terrablender"
+version = "zzgNcnwe"
+
+[[mods]]
+type = "modrinth"
+id = "terralith"
+version = "FgvUosFH"
+
+[[mods]]
+type = "modrinth"
+id = "twigs"
+version = "aJj6NXkv"
+
+[[mods]]
+type = "modrinth"
+id = "terrestria"
+version = "3Q2d6Vf0"
+
+[[mods]]
+type = "modrinth"
+id = "things"
+version = "FLzUUyOd"
+
+[[mods]]
+type = "modrinth"
+id = "trinkets"
+version = "e563ycts"
+
+[[mods]]
+type = "modrinth"
+id = "tree-harvester"
+version = "zz5yoC3K"
+
+[[mods]]
+type = "modrinth"
+id = "universal-graves"
+version = "KaGNkIdU"
+
+[[mods]]
+type = "modrinth"
+id = "windchimes"
+version = "JapPN4QV"
+
+[[mods]]
+type = "modrinth"
+id = "collective"
+version = "5Wg6Ceg4"
+
+[[mods]]
+type = "modrinth"
+id = "architectury-api"
+version = "Sbew3kXe"
+
+[[mods]]
+type = "modrinth"
+id = "puzzles-lib"
+version = "SgNgKci7"
+
+[[mods]]
+type = "modrinth"
+id = "ash-api"
+version = "Cc4WFedk"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-language-kotlin"
+version = "JjrWZ7m8"
+
+[[mods]]
+type = "modrinth"
+id = "moonlight"
+version = "OkmMqBP5"
+
+[[mods]]
+type = "modrinth"
+id = "owo-lib"
+version = "zyOBB7J4"
 
 [markdown]
 files = ["README.md"]
