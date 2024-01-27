@@ -1,0 +1,17 @@
+name = "originfur-1.0.8-dev"
+filename = "originfur-1.0.8-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T0alwZVT/versions/As0QO9qw/originfur-1.0.8-dev.jar"
+hash = "cc957e20478320dec0312a7fa18182ea7857a630fa096a4579ab85cab977978a9a69051dc41586addf6c2a1d75860cc5ca9eaf0a8d1c618410acf778fe10e5df"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "origin-furs"
+version = "As0QO9qw"

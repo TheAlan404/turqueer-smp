@@ -1,0 +1,17 @@
+name = "improved-inchling-origin-2.1.1"
+filename = "improved-inchling-origin-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TxQFiZmr/versions/CMwBLebQ/improved-inchling-origin-2.1.1.jar"
+hash = "23a31c75e8954f679108961fd5a37fd22b25caef2b8b1d5a908e4e81abd571d3bb1b06caa7aeb4e14df8ec4c7147bbcd6cab45a503b3eb0ecdd152fb678a6fc6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "improved-inchling-origin"
+version = "CMwBLebQ"

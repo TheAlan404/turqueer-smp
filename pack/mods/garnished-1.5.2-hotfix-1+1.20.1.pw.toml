@@ -1,0 +1,17 @@
+name = "garnished-1.5.2-hotfix-1+1.20.1"
+filename = "garnished-1.5.2-hotfix-1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6e2SlzR4/versions/4tD88qc4/garnished-1.5.2-hotfix-1%2B1.20.1.jar"
+hash = "eb0713f96a3790718c3686aeb95c2caee693fc08490ebf16fa56f2bc1338161574fa38b750f884a172cd8466536e7c78e833b065479323448efe0e868f0ec1be"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "create-garnished"
+version = "4tD88qc4"

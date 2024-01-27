@@ -1,0 +1,17 @@
+name = "moonlight-1.20-2.9.3-fabric"
+filename = "moonlight-1.20-2.9.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/OkmMqBP5/moonlight-1.20-2.9.3-fabric.jar"
+hash = "ddc8becd9b224b854897312a1ceabec7e65ac8aab6d561c3f4c9b55a5a464e9603492b8e5a8c205ba85649ee948abe2ccd907b254f84d176d5733d7459c228a5"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "moonlight"
+version = "OkmMqBP5"
